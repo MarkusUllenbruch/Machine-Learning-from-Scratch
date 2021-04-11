@@ -14,3 +14,6 @@
 ## 4. Linear Regression --TO COME--
 --TO COME--
 
+## 5. Principal Component Analysis (PCA) --TO COME--
+--TO COME--
+
