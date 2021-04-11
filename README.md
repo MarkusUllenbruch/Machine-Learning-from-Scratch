@@ -11,3 +11,6 @@
 ## 3. K-Nearest-Neighbour (KNN) Algorithm (Classification) [(Code Here!)](3--KNN-Classification/KNN_Classification.ipynb)
 <img src="https://www.researchgate.net/profile/Jung-Keun-Hyun/publication/260397165/figure/fig7/AS:214259620421658@1428094882662/Pseudocode-for-KNN-classification.png" alt="alt text" width="500">
 
+## 4. Linear Regression --TO COME--
+--TO COME--
+
