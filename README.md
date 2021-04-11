@@ -7,3 +7,6 @@
 
 ## 2. K-Nearest-Neighbour (KNN) Algorithm (Regression)
 <img src="https://i.ytimg.com/vi/kbadomx9DIg/maxresdefault.jpg" alt="alt text" width="500">
+
+
+[a relative link](1--K-Means-Clustering/K_Means.ipynb)
