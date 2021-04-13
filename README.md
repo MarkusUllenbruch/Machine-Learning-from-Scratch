@@ -1,4 +1,4 @@
-# Machine-Learning-from-Scratch
+# Machine-Learning Algorithms from Scratch
  In this Repo I am coding up basic Machine Learning Algorithms from Scratch with Raw Python and numpy package. The purpose is to really learn and implement the basics of ML and to be able to implement these concepts on my very own to understand the underlying algorithms.
  The following algorithms are implemented and tested in Jupyter Notebooks:
 
