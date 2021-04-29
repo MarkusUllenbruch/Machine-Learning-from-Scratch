@@ -12,6 +12,7 @@
 <img src="https://www.researchgate.net/profile/Jung-Keun-Hyun/publication/260397165/figure/fig7/AS:214259620421658@1428094882662/Pseudocode-for-KNN-classification.png" alt="alt text" width="500">
 
 ## 4. Linear Regression [(Code Here!)](4--LinearRegression/4--LinearRegression.ipynb)
+Solving Linear Regression Problem Ax=b via Singular Value Decomposition (SVD):
 <img src="https://miro.medium.com/max/4000/0*RkVyp3tErxlOXIdC.png" alt="alt text" width="500">
 
 ## 5. Principal Component Analysis (PCA) --TO COME--
