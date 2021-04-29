@@ -17,7 +17,7 @@ Two Methods:
 <img src="https://miro.medium.com/max/4000/0*RkVyp3tErxlOXIdC.png" alt="alt text" width="500">
 
 2) Solving Linear Regression Problem via Gradient Descent Algorithm:
-<img src="https://i.stack.imgur.com/89edQ.png" alt="alt text" width="500">
+<img src="https://i.stack.imgur.com/89edQ.png" alt="alt text" width="300">
 
 ## 5. Principal Component Analysis (PCA) --TO COME--
 --TO COME--
